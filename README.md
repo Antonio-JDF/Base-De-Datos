@@ -9,8 +9,7 @@ Realizado por Carlos López Mohedano, Coro Porras Bandrés y Antonio Jesús Dom�
       Ejecutar DDL e inserts.sql.
 4. En el paquete VIEW, ejecutar como Java Application MainFrame.java.
 -----------------------------------------------------------------------------------------------------------
-Compañeros: 
-
-	https://www.linkedin.com/in/carlos-lópez-mohedano/
-	https://www.linkedin.com/in/coro-porras-bandrés-b4549b404/
+	Compañeros:
+https://www.linkedin.com/in/carlos-lópez-mohedano/
+https://www.linkedin.com/in/coro-porras-bandrés-b4549b404/
 -----------------------------------------------------------------------------------------------------------
